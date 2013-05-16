@@ -1,0 +1,11 @@
+{
+	"name": "sphero-example",
+  	"version": "0.0.1",
+  	"dependencies": {
+  		"underscore":"x",
+  		"jquery":"x",
+    	"express": "3.x",
+    	"serialport": "x",
+    	"xml2js": "x"
+    }
+}
